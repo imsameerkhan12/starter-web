@@ -12,3 +12,5 @@ adding a line for rebasing example
 adding some changes to the staging area only
 
 adding some changes to working dir
+
+adding some changes to readme in feature branch for rebase
